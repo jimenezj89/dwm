@@ -5,6 +5,7 @@ Dwm is an extremely fast, small, and dynamic window manager for X.
 + [fullgaps](https://dwm.suckless.org/patches/fullgaps/): This patch adds gaps between client windows.
 + [hide_vacant_tags](https://dwm.suckless.org/patches/hide_vacant_tags/): This patch prevents dwm from drawing tags with no clients (i.e. vacant) on the bar.
 + [noborder](https://dwm.suckless.org/patches/noborder/): Remove the border when there is only one window visible.
++ [pertag](https://dwm.suckless.org/patches/pertag/): This patch keeps layout, mwfact, barpos and nmaster per tag.
 + [systray](https://dwm.suckless.org/patches/systray/): A simple system tray implementation.
 
 ## Shortcuts
